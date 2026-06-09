@@ -10,7 +10,7 @@
   "keep_vars": true,
   "routes": [
     {
-      "pattern": "orsummic.cc.cd",
+      "pattern": "blog.orsummic.cc.cd",
       "custom_domain": true
     }
   ],
